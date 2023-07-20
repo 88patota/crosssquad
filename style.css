@@ -2281,3 +2281,22 @@ main {
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+.logo-img {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  background-color: transparent;
+  /* -webkit-mask-image: url('/images/logo-cross-top.png'); */
+}
+
+.adriana-font {
+  font-family: "Adriana", sans-serif;
+  color: #ffffff; /* Código hexadecimal para a cor branca */
+}
